@@ -174,5 +174,4 @@ For more screenshots, Click [wiki](https://gitee.com/LongbowEnterprise/Bootstrap
 ## Donate
 
 If this project is helpful to you, please scan the QR code below for a cup of coffee.
-
-![WeChat](https://gitee.com/LongbowEnterprise/Pictures/raw/master/WeChat/WeChat.png "WeChat")
+ 
